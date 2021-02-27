@@ -9,7 +9,8 @@
   
   <!-- Child Modules -->
 	<modules>
-		<module>employee</module>
+		<module>Employee-Service</module>
+		<module>User-Service</module>
 		<module>eureka-server</module>
 		<module>zuul-server</module>
 	</modules>

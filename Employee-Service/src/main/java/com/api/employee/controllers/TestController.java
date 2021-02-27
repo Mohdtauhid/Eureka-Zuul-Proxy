@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.api.employee.model.Employee;
 
 @RestController
-@RequestMapping("/api/v1/employee")
+@RequestMapping("/api/v1/employees")
 public class TestController 
 {
 
